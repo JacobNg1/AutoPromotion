@@ -42,7 +42,7 @@ if __name__ == "__main__":
     # 用cmd打开浏览器并设置端口
     driver = use_chrome(9222)
 
-    #remove_machine_control_features()
+    remove_machine_control_features()
 
     #red_book_publish(9222)
 
